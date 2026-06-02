@@ -92,6 +92,7 @@ All staging-to-fact loads preserve record counts.
 
 ## Repository Structure
 
+```text
 .
 ├── starter.ipynb
 ├── warehouse_report.md
@@ -101,7 +102,7 @@ All staging-to-fact loads preserve record counts.
 ├── data/
 ├── README.md
 └── .gitignore
-
+```
 ## Technologies
 
 - Python
